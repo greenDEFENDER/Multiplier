@@ -1,0 +1,19 @@
+#input_area{
+	margin-bottom:10px;
+}
+#copy_btn{
+	width:100%;
+	background-color:grey;
+	font-weight:bold;
+}
+body{
+	background-color:#96CEB4;
+}
+
+#text_data{
+	width:100%;
+}
+.output{
+	background-color:none;
+	width:100%;
+}
